@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm Manager",
+  "description": "স্মার্ট ফার্ম ম্যানেজার — বহুমুখী পোল্ট্রি ও গবাদিপশু খামার ব্যবস্থাপনা সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
